@@ -41,7 +41,11 @@ html, body{
 
 /*// ELEMENTS TO ANIMATE //*/
 
-
+.mario {
+  position: absolute;
+  top: 40px;
+  left: 8px;
+}
 
 /*// KEYFRAMES //*/
 
